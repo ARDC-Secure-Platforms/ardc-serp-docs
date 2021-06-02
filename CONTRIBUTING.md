@@ -13,3 +13,4 @@ By submitting content to training template, you confirm and agree that all mater
 
 ARDC contributing team
 * [Matthias Liffers](https://orcid.org/0000-0002-3639-2080)
+* [Tom Honeyman](https://orcid.org/0000-0001-9448-4023)
