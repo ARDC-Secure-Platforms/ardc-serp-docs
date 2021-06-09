@@ -28,6 +28,11 @@ twitter_username: ARDC_AU
 github_username:  au-research
 # Build settings
 theme: minima
+collections:
+  episodes:
+    output: true
+    sort_by: episode
+    permalink: /episodes/:name
 
 # Exclude from processing.
 # The following items will not be processed, by default.
