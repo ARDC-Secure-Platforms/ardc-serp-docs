@@ -1,6 +1,6 @@
 ---
-title: Episode two
-permalink: /02-episode-two
+title: Episode three
+permalink: /03-episode-three
 layout: episode
 ---
 
