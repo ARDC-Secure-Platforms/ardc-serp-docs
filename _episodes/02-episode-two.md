@@ -1,6 +1,7 @@
 ---
 title: Episode two
-permalink: /2-episode-two
+permalink: /02-episode-two
+layout: episode
 ---
 
 Learning outcomes:

@@ -1,0 +1,49 @@
+---
+layout: default
+
+---
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+
+    {%- include header.html -%}
+
+    <section>
+        <p>
+            {% if page.previous.url %}
+            <a href="{{site.baseurl}}{{page.previous.url}}">Previous episde: {{page.previous.title}}</a> <<
+            {% endif %}
+            <a href="{{site.baseurl}}/researchdata/things/">All episodes</a>
+            {% if page.next.url %}
+             >> <a href="{{site.baseurl}}{{page.next.url}}">Next episode: {{page.next.title}}</a>
+            {% endif %}
+        </p>
+    </section>
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    <section>
+        <p>
+            {% if page.previous.url %}
+            <a href="{{site.baseurl}}{{page.previous.url}}">Previous episde: {{page.previous.title}}</a> <<
+            {% endif %}
+            <a href="{{site.baseurl}}/researchdata/things/">All episodes</a>
+            {% if page.next.url %}
+             >> <a href="{{site.baseurl}}{{page.next.url}}">Next episode: {{page.next.title}}</a>
+            {% endif %}
+        </p>
+    </section>
+
+
+    {%- include footer.html -%}
+
+</body>
+
+</html>
