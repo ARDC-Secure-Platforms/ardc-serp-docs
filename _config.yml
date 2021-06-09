@@ -22,7 +22,7 @@ title: Training template
 email: contact@ardc.edu.au
 description: >- # this means to ignore newlines until "baseurl:"
   A template for training material
-baseurl: "/your-first-step-to-fair" # the subpath of your site, e.g. /blog
+baseurl: "/training-template" # the subpath of your site, e.g. /blog
 url: "https://au-research.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ARDC_AU
 github_username:  au-research
@@ -56,4 +56,4 @@ defaults:
       path: ''
     values:
       author: ARDC
-      layout: page 
+      layout: default
