@@ -2,15 +2,6 @@
 layout: default
 
 ---
-<!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
-
-  {%- include head.html -%}
-
-  <body>
-
-    {%- include header.html -%}
-
     <section>
         <p>
             {% if page.previous.url %}
@@ -40,10 +31,3 @@ layout: default
             {% endif %}
         </p>
     </section>
-
-
-    {%- include footer.html -%}
-
-</body>
-
-</html>
