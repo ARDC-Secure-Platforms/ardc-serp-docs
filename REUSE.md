@@ -35,7 +35,7 @@ them by tweeting to
 the [Data Librarians
 Slack Workspace](https://tiny.cc/data-librarians).
 
-## License for reuse of the training template
+## Licence for reuse of the training template
 
 All Your first step to FAIR materials are licensed under a [Creative
 Commons Attribution 4.0 licence (CC-BY)](https://creativecommons.org/licenses/by/4.0/), meaning you can reuse and republish with attribution to the

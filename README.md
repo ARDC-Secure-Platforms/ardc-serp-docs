@@ -5,6 +5,7 @@ This directory contains a template for training materials developed by the [Aust
 ## Authors
 
 - [Matthias Liffers](https://orcid.org/0000-0002-3639-2080)
+- [Tom Honeyman](https://orcid.org/0000-0001-9448-4023)
 
 ## Contributing
 
