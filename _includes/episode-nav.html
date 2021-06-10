@@ -1,11 +1,10 @@
 <section>
     <p>
         {% if page.previous.url %}
-        <a href="{{site.baseurl}}{{page.previous.url}}">Previous: {{page.previous.title}}</a> <<
+        <span style="text-align: left;"><< <a href="{{site.baseurl}}{{page.previous.url}}">Previous: {{page.previous.title}}</a></span>
         {% endif %}
-        <a href="{{site.baseurl}}">Home</a>
         {% if page.next.url %}
-         >> <a href="{{site.baseurl}}{{page.next.url}}">Next: {{page.next.title}}</a>
+        <span style="text-align: right;"> <a href="{{site.baseurl}}{{page.next.url}}">Next: {{page.next.title}}</a> >></span>
         {% endif %}
     </p>
 </section>
