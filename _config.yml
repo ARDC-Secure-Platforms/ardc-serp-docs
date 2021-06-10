@@ -22,7 +22,6 @@ title: Training template
 email: contact@ardc.edu.au
 description: >- # this means to ignore newlines until "baseurl:"
   A template for training material
-default_branch: main
 baseurl: "/training-template" # the subpath of your site, e.g. /blog
 url: "https://au-research.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ARDC_AU
