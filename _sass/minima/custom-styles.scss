@@ -17,3 +17,16 @@ img#ccby-logo {
   padding-top: 63px;
   float: right;
 }
+
+div.clear-float {
+  clear: both;
+  height: 10px
+}
+
+div.previous-episode {
+  float: left;
+}
+
+div.next-episode {
+  float: right;
+}

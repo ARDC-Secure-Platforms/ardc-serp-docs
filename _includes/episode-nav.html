@@ -1,13 +1,13 @@
 <section>
-    <div style="float: left;">
+    <div class="previous-episode">
         {% if page.previous.url %}
         <span style="text-align: left;">&lt;&lt; <a href="{{site.baseurl}}{{page.previous.url}}">Previous: {{page.previous.title}}</a></span>
         {% endif %}
     </div>
-    <div style="float: right;">
+    <div class="next-episode">
         {% if page.next.url %}
         <span style="text-align: right;"> <a href="{{site.baseurl}}{{page.next.url}}">Next: {{page.next.title}}</a> &gt;&gt;</span>
         {% endif %}
     </div>
-    <div style="clear: both;"></div>
+    <div class="clear-float"></div>
 </section>
