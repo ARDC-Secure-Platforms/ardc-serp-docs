@@ -1,0 +1,38 @@
+{
+    "description": "Put your description in here. HTML markup is supported!", 
+    "license": "cc-by-4.0", 
+    "title": "ARDC Training Template", 
+    "upload_type": "lesson",
+    "keywords": [ "training materials", "use more keywords as a comma separated list" ],
+    "language": "eng",
+    "communities": [
+        {
+            "identifier": "ardc"
+        }
+    ],
+    "creators": [
+        {
+            "affiliation": "Australian Research Data Commons", 
+            "name": "Matthias Liffers",
+            "orcid": "https://orcid.org/0000-0002-3639-2080"
+        }, 
+        {
+            "affiliation": "Australian Research Data Commons", 
+            "name": "Tom Honeyman",
+            "orcid": "https://orcid.org/0000-0001-9448-4023"
+        }
+    ], 
+    "access_right": "open",
+    "related_identifiers": [
+        {
+            "scheme": "url", 
+            "identifier": "https://github.com/au-research/training-template/tree/v1.0", 
+            "relation": "isSupplementTo"
+        }, 
+        {
+            "scheme": "doi", 
+            "identifier": "10.5281/zenodo.4414979 FIXME", 
+            "relation": "isVersionOf"
+        }
+    ]
+}
