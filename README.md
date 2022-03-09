@@ -1,17 +1,7 @@
-# Training template
+# ARDC SeRP Docs
 
-This directory contains a template for training materials developed by the [Australian Research Data Commons](https://www.ardc.edu.au/)
-
-## Authors
-
-- [Matthias Liffers](https://orcid.org/0000-0002-3639-2080)
-- [Tom Honeyman](https://orcid.org/0000-0001-9448-4023)
-
-## Contributing
-
-Contributions are always welcome!
-
-See [`CONTRIBUTING.md`](CONTRIBUTING.md) for ways to get started.
+This repository contains the various documentations
+developed as part of the [ARDC SeRP Project](https://ardc.edu.au/project/secure-eresearch-platform/)
 
 Please adhere to the [ARDC's Code of Conduct](https://ardc.edu.au/code-of-conduct-for-ardc-activities/)
   

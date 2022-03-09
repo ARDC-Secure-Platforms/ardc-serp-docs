@@ -1,28 +1,23 @@
 ---
-title: Your first step to FAIR
+title: ARDC SeRP Documentations
 permalink: /
 ---
 
-Welcome to the Australian Research Data Commons' *Training Template* course!
+Welcome to the ARDC SeRP Documentations page.
 
-## Course description
+## Site description
 
-This workshop give a brief overview of our training template.
+This site contains documentations for the ARDC SeRP project:
+https://ardc.edu.au/project/secure-eresearch-platform/
 
-## Learning objectives
+## Documents
 
-By the end of this workshop, learners will be able to:
+| Document |
+| --- |
+| [Research Infrastructure CoP Engagement Plan]({{ site.baseurl }}/01-ricop-ep) |
+| [Research Infrastructure CoP Infrastructure and Capability Assessment]({{ site.baseurl }}/02-ricop-ica) |
 
-* Use this template
+## SeRP team
 
-## Episodes
-
-| Time | Episode |
-| --- | --- |
-| 0:00 | [Episode 1]({{ site.baseurl }}/01-episode-one) |
-| 0:05 | [Episode 2]({{ site.baseurl }}/02-episode-two) |
-| 0:10 | [Episode 3]({{ site.baseurl }}/03-episode-three) |
-
-## Course team
-
-* [Matthias Liffers](https://orcid.org/0000-0002-3639-2080)
+* [Mat Ishac](https://www.monash.edu/researchinfrastructure/helix/about/helix-team)
+* [Jerico Revote](https://research.monash.edu/en/persons/jerico-revote)

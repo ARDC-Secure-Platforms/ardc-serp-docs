@@ -18,21 +18,20 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Training template
-email: contact@ardc.edu.au
+title: ARDC SeRP Docs
+email: safehavens@monash.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  A template for training material
-baseurl: "/training-template" # the subpath of your site, e.g. /blog
-url: "https://au-research.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ARDC_AU
-github_username:  au-research
+  ARDC SeRP Documentations
+baseurl: "/ardc-serp-docs" # the subpath of your site, e.g. /blog
+url: "https://ardc-serp-docs.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  ardc-serp-docs
 # Build settings
 theme: minima
 collections:
-  episodes:
+  docs:
     output: true
-    sort_by: episode
-    permalink: /episodes/:name
+    sort_by: doc
+    permalink: /docs/:name
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -60,5 +59,5 @@ defaults:
     scope:
       path: ''
     values:
-      author: ARDC
+      author: Monash University
       layout: default
