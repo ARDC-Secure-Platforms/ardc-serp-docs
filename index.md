@@ -7,8 +7,7 @@ Welcome to the ARDC SeRP Documentations page.
 
 ## Site description
 
-This site contains documentations for the ARDC SeRP project:
-https://ardc.edu.au/project/secure-eresearch-platform/
+This site contains documentations for the [ARDC SeRP Project]https://ardc.edu.au/project/secure-eresearch-platform/
 
 ## Documents
 
