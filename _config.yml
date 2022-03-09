@@ -23,7 +23,7 @@ email: safehavens@monash.edu
 description: >- # this means to ignore newlines until "baseurl:"
   ARDC SeRP Documentations
 baseurl: "/ardc-serp-docs" # the subpath of your site, e.g. /blog
-url: "https://ardc-serp-docs.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ardc-serp-project.github.io/ardc-serp-docs/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ardc-serp-docs
 # Build settings
 theme: minima
