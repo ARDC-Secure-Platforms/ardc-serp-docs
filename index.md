@@ -19,4 +19,5 @@ This site contains documentations for the [ARDC SeRP Project]https://ardc.edu.au
 ## SeRP team
 
 * [Mat Ishac](https://www.monash.edu/researchinfrastructure/helix/about/helix-team)
+* [Karin Quadros](https://www.monash.edu/researchinfrastructure/helix/about/helix-team)
 * [Jerico Revote](https://research.monash.edu/en/persons/jerico-revote)
