@@ -16,6 +16,7 @@ This site contains documentations for the [ARDC SeRP Project]https://ardc.edu.au
 | [Research Infrastructure CoP Engagement Plan]({{ site.baseurl }}/01-ricop-ep) |
 | [Research Infrastructure CoP Infrastructure and Capability Assessment]({{ site.baseurl }}/02-ricop-ica) |
 | [Research Users Training Material]({{ site.baseurl }}/03-rucop-tm) |
+| [Data Custodian CoP Building a CoP]({{ site.baseurl }}/pdfs/Data Custodian CoP Building a CoP.pdf) |
 
 ## SeRP team
 
