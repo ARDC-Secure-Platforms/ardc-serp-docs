@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: ARDC SeRP Docs
-email: safehavens@monash.edu
+email: serp-support@monash.edu
 description: >- # this means to ignore newlines until "baseurl:"
   ARDC SeRP Documentations
 baseurl: "/ardc-serp-docs" # the subpath of your site, e.g. /blog
