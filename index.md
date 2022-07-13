@@ -10,6 +10,8 @@ The ***"Scalable Governance, Control and Management of FAIR Sensitive Research D
 | --- |
 | [Research Infrastructure CoP Engagement Plan]({{ site.baseurl }}/01-ricop-ep) |
 | [Research Infrastructure CoP Infrastructure and Capability Assessment]({{ site.baseurl }}/02-ricop-ica) |
+| [Harmonised Security Controls]({{ site.baseurl }}/pdfs/Harmonised Security Controls.pdf) |
+
 
 | Research Users |
 | --- |
@@ -18,6 +20,7 @@ The ***"Scalable Governance, Control and Management of FAIR Sensitive Research D
 | Data Custodian |
 | --- |
 | [Data Custodian CoP Building a CoP]({{ site.baseurl }}/pdfs/Data Custodian CoP Building a CoP.pdf) |
+
 
 ## ARDC-SeRP Project Team
 
