@@ -19,6 +19,9 @@ layout: episode
 > [4.1 Account Activation](#account-activation)
 >
 > [4.2 Monash VPN](#monash-vpn)
+>
+> [4.3 Rroles & Permissions Levels](#roles-permissions)
+
 
 **[5 Analytical Environment](#analytical-environment)**
 
@@ -177,6 +180,17 @@ Download CISCO AnyConnect using the instructions available at
 Detailed guidance about Cisco AnyConnect and the Monash Virtual Private
 Network (VPN) can be found at
 <https://www.monash.edu/esolutions/network/vpn>
+
+<div id="roles-permissions" />
+## 4.3 Roles & Permission Levels
+
+During account configuration, you will be allocated a specific role which will provide certain permission levels for accessing data.
+
+These roles are categorised as follows: 
+
+Project Lead - Access to S3 Project Management Portal and  Read/Write access to proejct data
+Project Manager - Read/Write Access to project data
+Analyst - Read Only access to proejct data
 
 <div id="analytical-environment" />
 # 5. Analytical Environment
