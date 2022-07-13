@@ -19,7 +19,7 @@ The ***"Scalable Governance, Control and Management of FAIR Sensitive Research D
 | --- |
 | [Data Custodian CoP Building a CoP]({{ site.baseurl }}/pdfs/Data Custodian CoP Building a CoP.pdf) |
 
-## SeRP team
+## ARDC-SeRP Project Team
 
 * [Mat Ishac](https://www.monash.edu/researchinfrastructure/helix/about/helix-team)
 * [Karin Quadros](https://www.monash.edu/researchinfrastructure/helix/about/helix-team)
