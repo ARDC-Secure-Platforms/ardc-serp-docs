@@ -21,7 +21,10 @@ The ***"Scalable Governance, Control and Management of FAIR Sensitive Research D
 
 ## ARDC-SeRP Project Team
 
-* [Monash University](https://www.monash.edu)
-* [Karin Quadros](https://www.monash.edu/researchinfrastructure/helix/about/helix-team)
-* [Jerico Revote](https://research.monash.edu/en/persons/jerico-revote)
-* [Vivianne Andreou](https://www.monash.edu/researchinfrastructure/helix/about/helix-team)
+* [Monash University](ttps://www.monash.edu)
+* [Curtin University](https://www.curtin.edu.au/)
+* [QCIF](https://www.qcif.edu.au/)
+* [University of New South Wales](https://www.unsw.edu.au/)
+* [Sax Institute](https://www.saxinstitute.org.au/)
+* [Swansea University](https://www.swansea.ac.uk/)
+
