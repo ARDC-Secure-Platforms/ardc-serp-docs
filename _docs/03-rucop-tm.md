@@ -22,24 +22,28 @@ layout: episode
 >
 > [4.3 Rroles & Permissions Levels](#roles-permissions)
 
+**[5 Project Governence](#project-gov)**
 
-**[5 Analytical Environment](#analytical-environment)**
+> [5.1 Adding users to a Project](#adding-users)
 
-> [5.1 Logging into Monash SeRP](#logging-into-monash-serp)
+
+**[6 Analytical Environment](#analytical-environment)**
+
+> [6.1 Logging into Monash SeRP](#logging-into-monash-serp)
 >
-> [5.2 Project Data - P Drive](#project-data-p-drive)
+> [6.2 Project Data - P Drive](#project-data-p-drive)
 >
-> [5.3 Personal Workspace - U Drive](#personal-workspace-u-drive)
+> [6.3 Personal Workspace - U Drive](#personal-workspace-u-drive)
 >
-> [5.4 Saving files to the desktop](#saving-files-desktop)
+> [6.4 Saving files to the desktop](#saving-files-desktop)
 >
-> [5.5 Analysis Applications](#analysis-applications)
+> [6.5 Analysis Applications](#analysis-applications)
 >
-> [5.6 File In Process](#file-in-process)
+> [6.6 File In Process](#file-in-process)
 >
-> [5.7 File In Process (Large Datasets)](#file-in-process-large)
+> [6.7 File In Process (Large Datasets)](#file-in-process-large)
 >
-> [5.8 File Out Process](#file-out-process)
+> [6.8 File Out Process](#file-out-process)
 
 <div id="introduction" />
 # 1. Introduction
@@ -188,15 +192,25 @@ During account configuration, you will be allocated a specific role which will p
 
 These roles are categorised as follows: 
 
-Project Lead - Access to S3 Project Management Portal and  Read/Write access to proejct data
-Project Manager - Read/Write Access to project data
-Analyst - Read Only access to proejct data
+**Project Lead** - Access to S3 Project Management Portal and  Read/Write access to proejct data
+
+**Project Manager** - Read/Write Access to project data
+
+**Analyst** - Read Only access to project data
+
+<div id="project-gov" />
+# 5. Project Governence
+
+<div id="addding-users" />
+## 5.1 Adding Users to a Project
+
+It is the responsibility of the Project Lead to approve and request adding users to a project. Please contact your project lead if you require adding a user to a project or require access to a project. 
 
 <div id="analytical-environment" />
-# 5. Analytical Environment
+# 6. Analytical Environment
 
 <div id="logging-into-monash-serp" />
-## 5.1 Logging into Monash SeRP
+## 6.1 Logging into Monash SeRP
 
 **Requirements**
 
@@ -273,7 +287,7 @@ re-enter your Monash ID and password.
 
 ![Monash VDI Login](images/03-rucop-tm/monash-vdi-login.png)
 
-12. Congratulations, you are now logged in!
+12\. Congratulations, you are now logged in!
 
 Upon first time log in, it may take a minute to load your personal
 desktop.
@@ -283,7 +297,7 @@ left of the screen. This will Load a menu screen,
 click on your name in top right corner of screen and click *sign-out*.
 
 <div id="project-data-p-drive" />
-## 5.2 Project Data - P Drive
+## 6.2 Project Data - P Drive
 
 1\. To access your research data folders, you must be logged into the
 Monash SeRP Analytical Environment and click on the *File Explorer* icon
@@ -300,7 +314,7 @@ approved to access.
 ![Windows Explorer Drives](images/03-rucop-tm/windows-explorer-drives.png)
 
 <div id="personal-workspace-u-drive" />
-## 5.3 Personal Workspace - U Drive
+## 6.3 Personal Workspace - U Drive
 
 1\. Your own reference documents, scripts or research outputs should be
 saved to the U drive
@@ -317,7 +331,7 @@ Documents' folder is a component of a user's profile and is unique to
 each user.
 
 <div id="saving-files-desktop" />
-## 5.4 Saving files to the desktop
+## 6.4 Saving files to the desktop
 
 1\. It is recommended that you do not save any files to the desktop of
 the analytical machine.
@@ -332,7 +346,7 @@ same machine again in future.
 4\. All files should be saved to either the P drive or U drive.
 
 <div id="analysis-applications" />
-## 5.5 Analysis Applications
+## 6.5 Analysis Applications
 
 If you require additional packages to be installed for any of the
 below applications, please submit your request to
@@ -407,7 +421,7 @@ FUZZY is also available.
 ![SPSS Fuzzy](images/03-rucop-tm/spss-fuzzy.png)
 
 <div id="file-in-process" />
-## 5.6 File in Process
+## 6.6 File in Process
 
 This process should be used by the Data Custodian to ingress project
 files such as datasets, data dictionaries, scripts and other supporting
@@ -474,7 +488,7 @@ be available on the U: Drive.
 appropriate project researchers to access the data.
 
 <div id="file-in-process-large" />
-## 5.7 File In Process (Large Datasets)
+## 6.7 File In Process (Large Datasets)
 
 1\. There is no file size limit for data ingress using the File In
 Process described above.
@@ -486,7 +500,7 @@ uploaded to an SQL Database.
 using these alternate methods.
 
 <div id="file-out-process />
-## 5.8 File Out Process
+## 6.8 File Out Process
 
 1\. File Out requests are submitted from within the Monash SeRP virtual
 desktop environment, using the SeRP Egress desktop shortcut.
