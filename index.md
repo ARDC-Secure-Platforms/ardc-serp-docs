@@ -21,7 +21,7 @@ The ***"Scalable Governance, Control and Management of FAIR Sensitive Research D
 
 ## ARDC-SeRP Project Team
 
-* [Mat Ishac](https://www.monash.edu/researchinfrastructure/helix/about/helix-team)
+* [Mat Isshac](https://www.monash.edu/researchinfrastructure/helix/about/helix-team)
 * [Karin Quadros](https://www.monash.edu/researchinfrastructure/helix/about/helix-team)
 * [Jerico Revote](https://research.monash.edu/en/persons/jerico-revote)
 * [Vivianne Andreou](https://www.monash.edu/researchinfrastructure/helix/about/helix-team)
