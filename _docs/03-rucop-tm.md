@@ -502,6 +502,23 @@ using these alternate methods.
 <div id="file-out-process />
 ## 6.8 File Out Process
 
+Approved files are permitted out of the SeRP analytical environment based on an approval process. This may include SQL queries, tool scripts, tool outputs, frequency counts, statistical outputs and project reports. All of these types of files are subject to the SeRP and project data policies.
+
+To request approval for files out, please submit them for review using this form. Drag and drop the files onto the files target area and complete the documentation section.
+
+Documentation is required for the reviewer to understand and evaluate the files. This documentation should include as a minimum:
+- Source data used
+- An explanation of what is included in the file (e.g. descriptive labels for any table columns, figures, etc.)
+- An explanation of why small numbers (< 5 individuals) are present in your file as these can be a disclosure risk. If you do require small numbers to be included in your file then an explanation of why you consider this not to be a disclosure risk must be included in your documentation.
+
+This can be provided in the description when submitting the request, but it is often easier to include it in the file(s) or as an additional documentation file.
+
+Please ensure the documentation is sufficient for the reviewer to assess the files. Failure to include adequate and accurate information may result in delays and/or rejection of your request. 
+
+The project relevant to the request must be selected. If the request is not related to a project, select N/A and explain the reason in the documentation. This situation is rare, do not do this for project related files. If the appropriate project does not appear, please contact serp-support@monash.edu.
+
+File requests are reviewed by the appropriate project team. Please allow at least two working days for the review.
+
 1\. File Out requests are submitted from within the Monash SeRP virtual
 desktop environment, using the SeRP Egress desktop shortcut.
 
