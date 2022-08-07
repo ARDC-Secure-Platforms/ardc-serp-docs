@@ -20,12 +20,21 @@ layout: episode
 >
 > [4.2 Monash VPN](#monash-vpn)
 >
-> [4.3 Rroles & Permissions Levels](#roles-permissions)
+> [4.3 Roles & Permissions Levels](#roles-permissions)
+>
+> [4.4 Terminology](#terminology)
 
 **[5 Project Governence](#project-gov)**
 
 > [5.1 Adding users to a Project](#adding-users)
-
+>
+> [5.2 Ethics and Privacy](#ethics-privacy)
+>
+> [5.3 Data Security](#data-security)
+>
+> [5.4 Publication Acknowledgements](#pub-acknowledge)
+>
+> [5.5 Working With Senstive Data](#senstive-data)
 
 **[6 Analytical Environment](#analytical-environment)**
 
@@ -198,6 +207,55 @@ These roles are categorised as follows:
 
 **Analyst** - Read Only access to project data
 
+<div id="terminology" />
+## 4.4 Terminology
+
+Analyst - Refers to a specific role within the Security Module. See Data Custodian permissions guide for more information.  
+
+Data Custodian - Designated data owner of a specified project, set of sub-projects or dataset. Responsible for approving data access and data management. 
+
+Data Portal - A publicly accessible portal that contains information about data access and data catalogue information. 
+
+End User - The ultimate individual end users of the Software (usually equivalant to 'Analyst' role) 
+
+End User Terms - The terms and conditions that each End User must abide to when using the Software which shall be substantially in the form set out in
+the End User Agreement provided to the Sub Licensee. 
+
+eSolutions - Provides underlying IT support and access Monash IT systems for Monash Helix and Monash eResearch Centre.
+
+Flavours - Description for range of Virtual Machine compute options (Small, Medium, Large, etc).  
+
+GPU - Graphics Processing Unit. Refers to GPU enabled Virtual Machines. 
+
+Helix - Provides operational support for Monash SeRP Sub-Licensees, Data Custodians, End-Users and research projects. 
+
+HPC - High Performance Computing
+
+MeRC - Monash eResearch Centre provides Monash SeRP Infrastructure support.
+Monash - Monash University licences and provides support services for the SeRP software to other institutions within Australia. . 
+Monash SeRP - Monash Secure eResearch Platform (SeRP) is a secure environment for sharing research data for collaboration and analysis, within the control and governance of the data custodian. 
+Monash SeRP Infrastructure - The underlying hardware and technology running and supporting the Monash SeRP. 
+
+Nectar - Research Cloud Storage infrastructure utilised by Monash SeRP
+
+Packages - Refers to additional software add-ons that can be installed to accompany certain software. ie. STATA, R, Anaconda. 
+
+Project Lead - Refers to a specific role within the Security Module. See Data Custodian permissions guide for more information. 
+
+Project Manager - Refers to a specific role within the Security Module. See Data Custodian permissions guide for more information.  
+
+Research Data Storage (RDS) - Secure Research Data Storage infrastructure supporting the safe storage of data within Monash SeRP. 
+
+Security 3 (S3) Portal - Monash SeRP administration portal. Available for system administrators and data custodians to upload datasets and add user permissions. 
+
+Sub Licensee - An institution or public body which enters into an Sub-Licence Agreement to license the Software (Monash SeRP). 
+
+Swansea / Swansea University - Swansea University has developed the Secure eResearch Platform (SeRP) technology. 
+
+Virtual Desktop Infrastructure (VDI) - Virtual Machines available for analysis of data. 
+
+Virtual Machine - Virtual environment created on the Nectar cloud. Currently Windows Server virtual machines are available with varying compute power. 
+
 <div id="project-gov" />
 # 5. Project Governence
 
@@ -206,11 +264,68 @@ These roles are categorised as follows:
 
 It is the responsibility of the Project Lead to approve and request adding users to a project. Please contact your project lead if you require adding a user to a project or require access to a project. 
 
+<div id="ethics-privacy" />
+## 5.2 Ethics and Privacy
+
+The responsible conduct of research includes within its scope the appropriate generation, collection, access, use, analysis, disclosure, storage, retention, disposal, sharing and re-use
+of data and information. 
+
+All researchers should comply with the Australian Code for the Responsible Conduct of Research, 2018
+<https://www.nhmrc.gov.au/about-us/publications/australian-code-responsible-conduct-research-2018>
+
+<div id="data-security" />
+## 5.3 Data Security
+
+Researchers must exercise care in handling confidential or other sensitive information used
+in or arising from a research project. Research data and information to which obligations
+of confidentiality or other sensitivities may apply commonly fall into one of the following
+categories:
+
+• data or information that is commercial-in-confidence or that is inherently confidential
+and which has been provided in confidence (e.g. secret and sacred religious or cultural
+practices, or information on the location of vulnerable species)
+
+• sensitive data or information subject to privacy legislation (e.g. identifiable human medical/
+health and personal data or information)
+
+• data or information subject to classification regimes and other controls (e.g. national security
+information, police records or information and primary materials subject to export controls).
+
+<div id="pub-acknowledge" />
+## 5.4 Publication Acknowledgements
+
+Accountability for public spending on research is a key driver behind the impact agenda.  Demonstrating the impact of research can raise our profile locally, nationally, and internationally.
+
+The Australian Government and its research funding bodies, the Australian Research Data Commons (ARDC), the Australian Research Council (ARC) and National Health and Medical Research Council (NHMRC), require researchers to characterise the reach and significance of their research impact.
+
+Researchers who use data from the Monash SeRP in any presentations, academic journals or other publications must acknowledge Monash SeRP using the following wording: 
+
+"This work was supported by the Monash eResearch Centre and Helix at Monash University and utilises the Monash University hosted Monash Secure eResearch Platform (Monash SeRP)."
+
+Copies of publications (abstracts, papers and posters etc) using data from Monash SeRP must be sent to Monash SeRP on acceptance for publication. Publications should be submitted to:
+serp-support@monash.edu
+
+Researchers who use data from the Monash SeRP should also provide a PURE ID number for each unique research project. 
+
+<div id="senstive-data" />
+## 5.5 Working With Senstive Data
+
+All researchers should comply with the Australian Code for the Responsible Conduct of Research, 2018
+<https://www.nhmrc.gov.au/about-us/publications/australian-code-responsible-conduct-research-2018>
+
+Monash SeRP is committed to the integrity and safeguarding of personal data and researchers should take all reasonable steps to ensure that the
+data is:
+
+• protected from misuse, loss, unauthorised access, modification or disclosure; and
+• managed in accordance with Monash University's Recordkeeping policy and the 
+• Recordkeeping: Retention and Disposal of University Records procedures (Australia only).
+• and if appicable, your own institution policies. 
+
 <div id="analytical-environment" />
 # 6. Analytical Environment
 
 <div id="logging-into-monash-serp" />
-## 6.1 Logging into Monash SeRP
+## 6.1 Logging into Monash SeRP5.2
 
 **Requirements**
 
