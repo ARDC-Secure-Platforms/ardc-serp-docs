@@ -615,7 +615,7 @@ uploaded to an SQL Database.
 3\. Please contact <serp-support@monash.edu> for assistance an advice
 using these alternate methods.
 
-<div id="file-out-process />
+<div id="file-out-process" />
 ## 6.8 File Out Process
 
 Approved files are permitted out of the SeRP analytical environment based on an approval process. This may include SQL queries, tool scripts, tool outputs, frequency counts, statistical outputs and project reports. All of these types of files are subject to the SeRP and project data policies.
