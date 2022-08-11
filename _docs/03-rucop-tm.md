@@ -498,6 +498,12 @@ packages. A full list is available
 - For detailed instructions on creating and managing Anaconda environments, please see
 [here](https://monasheresearch.freshdesk.com/support/solutions/articles/51000207370-python-anaconda).
 
+**Anaconda / Jupyter**
+- The Jupyter Notebook application allows you to create and edit documents that display the input and output of a Python or R language script. Once saved, you can share these files with others.
+- For the official Jupyter Notebook user instructions, see [here](http://jupyter.readthedocs.org/en/latest/).
+- Before using Jupyter, you will be required to configure the correct drive location. To change the drive location, open the 'Anaconda Prompt (Anaconda3)' application via the start menu. At the command prompt, enter the below command line. 
+jupyter notebook --notebook-dir=p:/  (or change to u drive if required)
+
 **SPSS**
 - SPSS v27 is available on Monash SeRP
 - R Plug-In has been installed
