@@ -22,7 +22,7 @@ The ***"Scalable Governance, Control and Management of FAIR Sensitive Research D
 | [Data Custodian CoP Building a CoP]({{ site.baseurl }}/pdfs/Data Custodian CoP Building a CoP.pdf) |
 
 
-## ARDC-SeRP Project Team
+## The Project Team
 
 * [Monash University](https://www.monash.edu) - serp-support@monash.edu
 * [Curtin University](https://www.curtin.edu.au/) - serp@curtin.edu.au
