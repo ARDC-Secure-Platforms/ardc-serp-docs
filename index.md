@@ -24,8 +24,8 @@ The ***"Scalable Governance, Control and Management of FAIR Sensitive Research D
 
 ## ARDC-SeRP Project Team
 
-* [Monash University](https://www.monash.edu)
-* [Curtin University](https://www.curtin.edu.au/)
+* [Monash University](https://www.monash.edu) serp-support@monash.edu
+* [Curtin University](https://www.curtin.edu.au/) serp@curtin.edu.au
 * [QCIF](https://www.qcif.edu.au/)
 * [University of New South Wales](https://www.unsw.edu.au/)
 * [Sax Institute](https://www.saxinstitute.org.au/)
