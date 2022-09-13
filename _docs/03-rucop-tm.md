@@ -300,7 +300,7 @@ The Australian Government and its research funding bodies, the Australian Resear
 
 Researchers who use data from the Monash SeRP in any presentations, academic journals or other publications must acknowledge Monash SeRP using the following wording: 
 
-"This work is supported by Monash University through the Monash eResearch Centre and Helix and utilises the University hosted Secure eResearch Platform (Monash SeRP) on the Nectar Research Cloud. The Nectar Research Cloud is a Collaborative Australian research platform supported by the National Collaborative Research Infrastructure Strategy."
+"This work is supported by Monash University through the Monash eResearch Centre and Helix, utilising the University hosted Secure eResearch Platform (Monash SeRP) on the Nectar Research Cloud. The Nectar Research Cloud is a Collaborative Australian research platform supported by the National Collaborative Research Infrastructure Strategy."
 
 Copies of publications (abstracts, papers and posters etc) using data from Monash SeRP must be sent to Monash SeRP on acceptance for publication. Publications should be submitted to:
 serp-support@monash.edu
