@@ -501,11 +501,26 @@ packages. A full list is available
 **Anaconda / Jupyter**
 - The Jupyter Notebook application allows you to create and edit documents that display the input and output of a Python or R language script. Once saved, you can share these files with others.
 - For the official Jupyter Notebook user instructions, see [here](http://jupyter.readthedocs.org/en/latest/).
-- Before using Jupyter, you will be required to configure the correct drive location. To change the drive location, open the 'Anaconda Prompt (Anaconda3)' application via the start menu. At the command prompt, enter the below command line. 
+- Before using Jupyter, you will be required to set the default browser to MS Edge. 
 
-jupyter notebook --notebook-dir=p:/  
+1\. Launch Anaconda Prompt Command Prompt via the Start Menu. 
 
-(or change to u drive if required)
+2\. Type the command "jupyter notebook --generate-config"
+
+3\. Locate the generated configuration file in the path "C:\Users\XXXX\.jupyter\jupyter_notebook_config.py" and open it with notepad/any text editor.
+
+4\. Modify #c.NotebookApp.browser to c.NotebookApp.browser = 'C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe %s'
+
+5\. Save the file and close it, then stop the process at the command prompt (Ctrl + c)
+
+6\. Now, start the tool typing jupyter notebook in the Anaconda Prompt. 
+
+Note: Don't forget uncomment (delete the hashtag symbol #) in step four (4). Next time you execute the jupyter-notebook command, it will use the set browser.
+
+- You will also be required to configure the correct drive location. To change the drive location, open the 'Anaconda Prompt (Anaconda3)' application via the start menu. At the command prompt, enter the below command line. 
+
+jupyter notebook --notebook-dir=p:/  (or change to u drive if required)
+
 
 **SPSS**
 - SPSS v27 is available on Monash SeRP
