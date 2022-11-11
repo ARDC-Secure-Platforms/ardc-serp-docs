@@ -8,8 +8,8 @@ The ***"Scalable Governance, Control and Management of FAIR Sensitive Research D
 
 | Research Infrastructure |
 | --- |
-| [Research Infrastructure CoP Engagement Plan]({{ site.baseurl }}/01-ricop-ep) |
-| [Research Infrastructure CoP Infrastructure and Capability Assessment]({{ site.baseurl }}/02-ricop-ica) |
+| [Engagement Plan]({{ site.baseurl }}/01-ricop-ep) |
+| [Infrastructure and Capability Assessment]({{ site.baseurl }}/02-ricop-ica) |
 | [Harmonised Security Controls]({{ site.baseurl }}/pdfs/Harmonised_Security_Controls.pdf) |
 
 
@@ -17,9 +17,10 @@ The ***"Scalable Governance, Control and Management of FAIR Sensitive Research D
 | --- |
 | [Research Users Training Material]({{ site.baseurl }}/03-rucop-tm) |
 
-| Data Custodian |
+| Data Custodians |
 | --- |
-| [Data Custodian CoP Building a CoP]({{ site.baseurl }}/pdfs/Data Custodian CoP Building a CoP.pdf) |
+| [Building a Data Custodian Community of Practice]({{ site.baseurl }}/pdfs/Data Custodian CoP Building a CoP.pdf) |
+| [Environmental Scan]({{ site.baseurl }}/pdfs/Data Custodian CoP Environmental Scan.pdf) |
 
 
 ## The Project Team
@@ -30,4 +31,3 @@ The ***"Scalable Governance, Control and Management of FAIR Sensitive Research D
 * [University of New South Wales](https://www.unsw.edu.au/) - dpau@unsw.edu.au
 * [Sax Institute](https://www.saxinstitute.org.au/) - https://www.saxinstitute.org.au/contact-us/
 * [Swansea University](https://www.swansea.ac.uk/) - https://serp.ac.uk/get-in-touch/
-
