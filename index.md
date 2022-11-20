@@ -10,6 +10,7 @@ The ***"Scalable Governance, Control and Management of FAIR Sensitive Research D
 | --- |
 | [Engagement Plan]({{ site.baseurl }}/01-ricop-ep) |
 | [Infrastructure and Capability Assessment]({{ site.baseurl }}/02-ricop-ica) |
+| [Generic Secure Platforms Architecture Diagram]({{ site.baseurl }}/pdfs/Secure Research Platform Diagram.pdf) |
 | [Harmonised Security Controls]({{ site.baseurl }}/pdfs/Harmonised_Security_Controls.pdf) |
 
 
