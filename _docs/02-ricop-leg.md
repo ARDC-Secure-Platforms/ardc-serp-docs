@@ -6,9 +6,10 @@ layout: episode
 
 **[1. Information Privacy Principles](#privacy-principles)**
 
-**[2. European Union General Data Protection Regulation](#gdpr-info)**
+**[2. Australian Privacy Act](#privacy-act)**
 
-**[3. Australian Privacy Act](#privacy-act)**
+**[3. European Union General Data Protection Regulation (GDPR)](#gdpr-info)**
+
 
 <div id="privacy-principles" />
 #  1. Information Privacy Principles
@@ -40,15 +41,15 @@ information.
 Sensitive Information - This includes racial or ethnic origin, political opinions and membership of political associations, religious or philosophical beliefs, membership
 of professional or trade associations or trade unions, sexual preferences or practices, and criminal record. The law puts special restrictions on its collection, use and disclosure of sensitive information.
 
-
-<div id="gdpr-info" />
-# 2. European Union General Data Protection Regulation
-
-The European Union General Data Protection Regulation (the GDPR) contains new data protection requirements that apply from 25 May 2018. Australian businesses of any size may need to comply if they have an establishment in the EU, if they offer goods and services in the EU, or if they monitor the behaviour of individuals in the EU.
-Australian businesses should determine whether they need to comply with the GDPR and if so, take steps now to ensure their personal data handling practices comply with the GDPR before commencement.
-
 <div id="privacy-act" />
-# 3. Australian Privacy Act
+# 2. Australian Privacy Act
 
 The Privacy Act regulates the way individuals’ personal information is handled. It includes 13 Australian Privacy Principles (APPs)  which outline how APP entities must handle, use and manage personal information.
 Research Platform providers will often have to conform to local state health records and privacy legislation as well as the Commonwealth legislation. For further information, please see the Australian Privacy Principles Guidelines – published by the Office of the Australian Information Commissioner (OAIC)
+
+
+<div id="gdpr-info" />
+# 3. European Union GDPR
+
+The European Union General Data Protection Regulation (the GDPR) contains new data protection requirements that apply from 25 May 2018. Australian businesses of any size may need to comply if they have an establishment in the EU, if they offer goods and services in the EU, or if they monitor the behaviour of individuals in the EU.
+Australian businesses should determine whether they need to comply with the GDPR and if so, take steps now to ensure their personal data handling practices comply with the GDPR before commencement.
