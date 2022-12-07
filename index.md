@@ -22,7 +22,7 @@ The Research Infrastructure Community of Practice (CoP) aims to bring together r
 | Data Custodians |
 | --- |
 | [Building a Data Custodian Community of Practice]({{ site.baseurl }}/pdfs/Data Custodian CoP Building a CoP.pdf) |
-| [Environmental Scan]({{ site.baseurl }}/pdfs/Data Custodian CoP Environmental Scan.pdf) |
+| [Environmental Scan of National Landscape]({{ site.baseurl }}/pdfs/Data Custodian CoP Environmental Scan.pdf) |
 
 
 ## The Project Team
