@@ -8,11 +8,12 @@ The ***"Scalable Governance, Control and Management of FAIR Sensitive Research D
 
 | Research Infrastructure |
 | --- |
-| [Engagement Plan]({{ site.baseurl }}/01-ricop-ep) |
 | [Infrastructure and Capability Assessment]({{ site.baseurl }}/02-ricop-ica) |
 | [Generic Secure Platforms Architecture Diagram]({{ site.baseurl }}/pdfs/Secure Research Platform Diagram.pdf) |
 | [Harmonised Security Controls]({{ site.baseurl }}/pdfs/Harmonised_Security_Controls.pdf) |
+| [Information Privacy Princples & Legislation]({{ site.baseurl }}/02-ricop-leg) |
 
+The Research Infrastructure Community of Practice (CoP) aims to bring together research infrastructure providers who are, or intend to, deliver services for sensitive data and its analysis. here you can find shared content to help the community to develop and deliver sae and secure services.
 
 | Research Users |
 | --- |
