@@ -64,17 +64,6 @@ custodian or the delegated project manager (Data Custodian) to have
 visibility and control over how their data is being used by other
 approved researchers.
 
-Onboarding a project/registry is simple and straightforward. The project
-owner places a request to create a project. A consultant will then be in
-touch to discuss the requirements and create the project.
-
-Once a project is established and a dataset uploaded, a Data Custodian
-can allocate controlled access to this dataset, provide computing power
-and approved analytical tools to approved researchers, manage the
-controls of the environment including restricting access to the
-internet, restricting the importing of other data, authorise all
-removals of data and audit the usage of data and compute resources.
-
 <div id="key-features-benefits" />
 # 2. Key Features & Benefits 
 
