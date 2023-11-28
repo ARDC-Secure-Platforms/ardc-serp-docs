@@ -315,7 +315,7 @@ data is:
 # 6. Analytical Environment
 
 <div id="logging-into-monash-serp" />
-## 6.1 Logging into Monash SeRP5.2
+## 6.1 Logging into Monash SeRP
 
 **Requirements**
 
