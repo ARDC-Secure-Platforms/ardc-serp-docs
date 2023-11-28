@@ -129,7 +129,7 @@ Please submit any requests to <serp-support@monash.edu>
 Use of the Monash SeRP is subject to Monash University's Information
 Technology Acceptable Use Policy and Information Technology Acceptable
 Use Procedure. Found
-[here](https://www.monash.edu/__data/assets/pdf_file/0009/1092699/Information-Technology-Acceptable-Use-Policy.pdf).
+[here](https://publicpolicydms.monash.edu/Monash/documents/1909268).
 
 If you have any queries, please contact the Monash SeRP Helpdesk:
 <serp-support@monash.edu>
